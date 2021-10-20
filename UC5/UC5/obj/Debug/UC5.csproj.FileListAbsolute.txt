@@ -1,0 +1,7 @@
+E:\csharp_snake_and_ladder\snake-and-ladder\UC5\UC5\obj\Debug\UC5.csproj.AssemblyReference.cache
+E:\csharp_snake_and_ladder\snake-and-ladder\UC5\UC5\obj\Debug\UC5.csproj.CoreCompileInputs.cache
+E:\csharp_snake_and_ladder\snake-and-ladder\UC5\UC5\bin\Debug\UC5.exe.config
+E:\csharp_snake_and_ladder\snake-and-ladder\UC5\UC5\bin\Debug\UC5.exe
+E:\csharp_snake_and_ladder\snake-and-ladder\UC5\UC5\bin\Debug\UC5.pdb
+E:\csharp_snake_and_ladder\snake-and-ladder\UC5\UC5\obj\Debug\UC5.exe
+E:\csharp_snake_and_ladder\snake-and-ladder\UC5\UC5\obj\Debug\UC5.pdb
