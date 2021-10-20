@@ -1,0 +1,7 @@
+E:\csharp_snake_and_ladder\snake-and-ladder\snakeandladder_UC1\snakeandladder_UC1\bin\Debug\snakeandladder_UC1.exe.config
+E:\csharp_snake_and_ladder\snake-and-ladder\snakeandladder_UC1\snakeandladder_UC1\bin\Debug\snakeandladder_UC1.exe
+E:\csharp_snake_and_ladder\snake-and-ladder\snakeandladder_UC1\snakeandladder_UC1\bin\Debug\snakeandladder_UC1.pdb
+E:\csharp_snake_and_ladder\snake-and-ladder\snakeandladder_UC1\snakeandladder_UC1\obj\Debug\snakeandladder_UC1.csproj.AssemblyReference.cache
+E:\csharp_snake_and_ladder\snake-and-ladder\snakeandladder_UC1\snakeandladder_UC1\obj\Debug\snakeandladder_UC1.csproj.CoreCompileInputs.cache
+E:\csharp_snake_and_ladder\snake-and-ladder\snakeandladder_UC1\snakeandladder_UC1\obj\Debug\snakeandladder_UC1.exe
+E:\csharp_snake_and_ladder\snake-and-ladder\snakeandladder_UC1\snakeandladder_UC1\obj\Debug\snakeandladder_UC1.pdb
