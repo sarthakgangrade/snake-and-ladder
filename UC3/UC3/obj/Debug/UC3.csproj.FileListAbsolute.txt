@@ -1,0 +1,7 @@
+E:\csharp_snake_and_ladder\snake-and-ladder\UC3\UC3\bin\Debug\UC3.exe.config
+E:\csharp_snake_and_ladder\snake-and-ladder\UC3\UC3\bin\Debug\UC3.exe
+E:\csharp_snake_and_ladder\snake-and-ladder\UC3\UC3\bin\Debug\UC3.pdb
+E:\csharp_snake_and_ladder\snake-and-ladder\UC3\UC3\obj\Debug\UC3.csproj.AssemblyReference.cache
+E:\csharp_snake_and_ladder\snake-and-ladder\UC3\UC3\obj\Debug\UC3.csproj.CoreCompileInputs.cache
+E:\csharp_snake_and_ladder\snake-and-ladder\UC3\UC3\obj\Debug\UC3.exe
+E:\csharp_snake_and_ladder\snake-and-ladder\UC3\UC3\obj\Debug\UC3.pdb
